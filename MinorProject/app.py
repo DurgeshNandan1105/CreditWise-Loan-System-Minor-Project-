@@ -13,7 +13,7 @@ from sklearn.linear_model import LogisticRegression
 # ---------------------------
 # Load Dataset
 # ---------------------------
-df = pd.read_csv("loan_approval_data.csv")
+df = pd.read_csv("MinorProject/loan_approval_data.csv")
 
 # ---------------------------
 # Basic Cleaning
