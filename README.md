@@ -125,12 +125,12 @@ streamlit run app.py
 
 ## ⭐ Why This Project Stands Out
 
-✔ End-to-end ML pipeline
-✔ Real-world FinTech use case
-✔ Strong feature engineering
-✔ Model comparison & evaluation
-✔ Interactive deployed application
-✔ Clean and professional project structure
+- ✔ End-to-end ML pipeline
+- ✔ Real-world FinTech use case
+- ✔ Strong feature engineering
+- ✔ Model comparison & evaluation
+- ✔ Interactive deployed application
+- ✔ Clean and professional project structure
 
 ---
 
